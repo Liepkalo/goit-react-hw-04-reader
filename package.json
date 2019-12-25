@@ -1,5 +1,5 @@
 {
-  "name": "goit-react-hw-04-movies",
+  "name": "goit-react-hw-04-reader",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -35,7 +35,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "/",
+  "homepage": "https://liepkalo.github.io/goit-react-hw-04-reader",
   "eslintConfig": {
     "extends": "react-app"
   },
